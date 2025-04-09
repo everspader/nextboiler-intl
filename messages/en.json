@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title1": "Get started by editing",
+    "title2": "Save and see your changes instantly.",
+    "deployButton": "Deploy now",
+    "docsButton": "Read our docs",
+    "learnLink": "Learn",
+    "examplesLink": "Examples",
+    "goToNextLink": "Go to nextjs.org →"
+  }
+}
